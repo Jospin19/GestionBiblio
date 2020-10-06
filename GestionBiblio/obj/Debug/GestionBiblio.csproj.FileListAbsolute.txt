@@ -1,0 +1,70 @@
+c:\users\hugues jospin\documents\visual studio 2015\Projects\GestionBiblio\GestionBiblio\bin\Debug\GestionBiblio.exe.config
+C:\Users\Hugues Jospin\Documents\Visual Studio 2015\Projects\GestionBiblio\GestionBiblio\bin\Debug\GestionBiblio.exe
+C:\Users\Hugues Jospin\Documents\Visual Studio 2015\Projects\GestionBiblio\GestionBiblio\bin\Debug\GestionBiblio.pdb
+C:\Users\Hugues Jospin\Documents\Visual Studio 2015\Projects\GestionBiblio\GestionBiblio\bin\Debug\Bunifu_UI_v1.52.dll
+C:\Users\Hugues Jospin\Documents\Visual Studio 2015\Projects\GestionBiblio\GestionBiblio\obj\Debug\GestionBiblio.formConnexion.resources
+C:\Users\Hugues Jospin\Documents\Visual Studio 2015\Projects\GestionBiblio\GestionBiblio\obj\Debug\GestionBiblio.Properties.Resources.resources
+C:\Users\Hugues Jospin\Documents\Visual Studio 2015\Projects\GestionBiblio\GestionBiblio\obj\Debug\GestionBiblio.csproj.GenerateResource.Cache
+C:\Users\Hugues Jospin\Documents\Visual Studio 2015\Projects\GestionBiblio\GestionBiblio\obj\Debug\GestionBiblio.exe
+C:\Users\Hugues Jospin\Documents\Visual Studio 2015\Projects\GestionBiblio\GestionBiblio\obj\Debug\GestionBiblio.pdb
+C:\Users\Hugues Jospin\Documents\Visual Studio 2015\Projects\GestionBiblio\GestionBiblio\obj\Debug\GestionBiblio.FormAdmin.resources
+C:\Users\Hugues Jospin\Documents\Visual Studio 2015\Projects\GestionBiblio\GestionBiblio\bin\Debug\MySql.Data.dll
+C:\Users\Hugues Jospin\Documents\Visual Studio 2015\Projects\GestionBiblio\GestionBiblio\bin\Debug\MySql.Data.Entity.EF6.dll
+C:\Users\Hugues Jospin\Documents\Visual Studio 2015\Projects\GestionBiblio\GestionBiblio\bin\Debug\MySql.Web.dll
+C:\Users\Hugues Jospin\Documents\Visual Studio 2015\Projects\GestionBiblio\GestionBiblio\bin\Debug\MySql.Data.xml
+C:\Users\Hugues Jospin\Documents\Visual Studio 2015\Projects\GestionBiblio\GestionBiblio\bin\Debug\MySql.Data.Entity.EF6.xml
+C:\Users\Hugues Jospin\Documents\Visual Studio 2015\Projects\GestionBiblio\GestionBiblio\bin\Debug\MySql.Web.xml
+C:\Users\Hugues Jospin\Documents\Visual Studio 2015\Projects\GestionBiblio\GestionBiblio\obj\Debug\GestionBiblio.Acceuil.resources
+C:\Users\Hugues Jospin\Documents\Visual Studio 2015\Projects\FADOld\GestionBiblio\GestionBiblio\bin\Debug\GestionBiblio.exe.config
+C:\Users\Hugues Jospin\Documents\Visual Studio 2015\Projects\FADOld\GestionBiblio\GestionBiblio\obj\Debug\GestionBiblio.exe
+C:\Users\Hugues Jospin\Documents\Visual Studio 2015\Projects\FADOld\GestionBiblio\GestionBiblio\obj\Debug\GestionBiblio.pdb
+C:\Users\Hugues Jospin\Documents\Visual Studio 2015\Projects\FADOld\GestionBiblio\GestionBiblio\bin\Debug\GestionBiblio.exe
+C:\Users\Hugues Jospin\Documents\Visual Studio 2015\Projects\FADOld\GestionBiblio\GestionBiblio\bin\Debug\GestionBiblio.pdb
+C:\Users\Hugues Jospin\Documents\Visual Studio 2015\Projects\FADOld\GestionBiblio\GestionBiblio\bin\Debug\MySql.Data.dll
+C:\Users\Hugues Jospin\Documents\Visual Studio 2015\Projects\FADOld\GestionBiblio\GestionBiblio\bin\Debug\MySql.Data.Entity.EF6.dll
+C:\Users\Hugues Jospin\Documents\Visual Studio 2015\Projects\FADOld\GestionBiblio\GestionBiblio\bin\Debug\MySql.Web.dll
+C:\Users\Hugues Jospin\Documents\Visual Studio 2015\Projects\FADOld\GestionBiblio\GestionBiblio\bin\Debug\MySql.Data.xml
+C:\Users\Hugues Jospin\Documents\Visual Studio 2015\Projects\FADOld\GestionBiblio\GestionBiblio\bin\Debug\MySql.Data.Entity.EF6.xml
+C:\Users\Hugues Jospin\Documents\Visual Studio 2015\Projects\FADOld\GestionBiblio\GestionBiblio\bin\Debug\MySql.Web.xml
+C:\Users\Hugues Jospin\Documents\Visual Studio 2015\Projects\FADOld\GestionBiblio\GestionBiblio\obj\Debug\GestionBiblio.Acceuil.resources
+C:\Users\Hugues Jospin\Documents\Visual Studio 2015\Projects\FADOld\GestionBiblio\GestionBiblio\obj\Debug\GestionBiblio.formConnexion.resources
+C:\Users\Hugues Jospin\Documents\Visual Studio 2015\Projects\FADOld\GestionBiblio\GestionBiblio\obj\Debug\GestionBiblio.FormAdmin.resources
+C:\Users\Hugues Jospin\Documents\Visual Studio 2015\Projects\FADOld\GestionBiblio\GestionBiblio\obj\Debug\GestionBiblio.Properties.Resources.resources
+C:\Users\Hugues Jospin\Documents\Visual Studio 2015\Projects\FADOld\GestionBiblio\GestionBiblio\obj\Debug\GestionBiblio.csproj.GenerateResource.Cache
+C:\Users\Hugues Jospin\Documents\Visual Studio 2015\Projects\GestionBiblio\GestionBiblio\obj\Debug\GestionBiblio.csprojResolveAssemblyReference.cache
+C:\Users\nssoe\source\repos\GestionBiblio\GestionBiblio\bin\Debug\GestionBiblio.exe.config
+C:\Users\nssoe\source\repos\GestionBiblio\GestionBiblio\bin\Debug\GestionBiblio.exe
+C:\Users\nssoe\source\repos\GestionBiblio\GestionBiblio\bin\Debug\GestionBiblio.pdb
+C:\Users\nssoe\source\repos\GestionBiblio\GestionBiblio\bin\Debug\MySql.Data.dll
+C:\Users\nssoe\source\repos\GestionBiblio\GestionBiblio\bin\Debug\MySql.Web.dll
+C:\Users\nssoe\source\repos\GestionBiblio\GestionBiblio\bin\Debug\Google.Protobuf.dll
+C:\Users\nssoe\source\repos\GestionBiblio\GestionBiblio\bin\Debug\MySql.Data.xml
+C:\Users\nssoe\source\repos\GestionBiblio\GestionBiblio\bin\Debug\MySql.Data.Entity.EF6.xml
+C:\Users\nssoe\source\repos\GestionBiblio\GestionBiblio\bin\Debug\MySql.Web.xml
+C:\Users\nssoe\source\repos\GestionBiblio\GestionBiblio\obj\Debug\GestionBiblio.csprojResolveAssemblyReference.cache
+C:\Users\nssoe\source\repos\GestionBiblio\GestionBiblio\obj\Debug\GestionBiblio.csproj.GestionBiblio.exe.config
+C:\Users\nssoe\source\repos\GestionBiblio\GestionBiblio\obj\Debug\GestionBiblio.Acceuil.resources
+C:\Users\nssoe\source\repos\GestionBiblio\GestionBiblio\obj\Debug\GestionBiblio.formConnexion.resources
+C:\Users\nssoe\source\repos\GestionBiblio\GestionBiblio\obj\Debug\GestionBiblio.FormAdmin.resources
+C:\Users\nssoe\source\repos\GestionBiblio\GestionBiblio\obj\Debug\GestionBiblio.Properties.Resources.resources
+C:\Users\nssoe\source\repos\GestionBiblio\GestionBiblio\obj\Debug\GestionBiblio.csproj.GenerateResource.Cache
+C:\Users\nssoe\source\repos\GestionBiblio\GestionBiblio\obj\Debug\GestionBiblio.csproj.CoreCompileInputs.cache
+C:\Users\nssoe\source\repos\GestionBiblio\GestionBiblio\obj\Debug\GestionBiblio.exe
+C:\Users\nssoe\source\repos\GestionBiblio\GestionBiblio\obj\Debug\GestionBiblio.pdb
+D:\Ecole\Univers tuto\repos\GestionBiblio\GestionBiblio\bin\Debug\GestionBiblio.exe.config
+D:\Ecole\Univers tuto\repos\GestionBiblio\GestionBiblio\bin\Debug\GestionBiblio.exe
+D:\Ecole\Univers tuto\repos\GestionBiblio\GestionBiblio\bin\Debug\GestionBiblio.pdb
+D:\Ecole\Univers tuto\repos\GestionBiblio\GestionBiblio\bin\Debug\Google.Protobuf.dll
+D:\Ecole\Univers tuto\repos\GestionBiblio\GestionBiblio\bin\Debug\MySql.Data.xml
+D:\Ecole\Univers tuto\repos\GestionBiblio\GestionBiblio\bin\Debug\MySql.Data.Entity.EF6.xml
+D:\Ecole\Univers tuto\repos\GestionBiblio\GestionBiblio\bin\Debug\MySql.Web.xml
+D:\Ecole\Univers tuto\repos\GestionBiblio\GestionBiblio\obj\Debug\GestionBiblio.csprojAssemblyReference.cache
+D:\Ecole\Univers tuto\repos\GestionBiblio\GestionBiblio\obj\Debug\GestionBiblio.exe.config
+D:\Ecole\Univers tuto\repos\GestionBiblio\GestionBiblio\obj\Debug\GestionBiblio.Acceuil.resources
+D:\Ecole\Univers tuto\repos\GestionBiblio\GestionBiblio\obj\Debug\GestionBiblio.formConnexion.resources
+D:\Ecole\Univers tuto\repos\GestionBiblio\GestionBiblio\obj\Debug\GestionBiblio.FormAdmin.resources
+D:\Ecole\Univers tuto\repos\GestionBiblio\GestionBiblio\obj\Debug\GestionBiblio.Properties.Resources.resources
+D:\Ecole\Univers tuto\repos\GestionBiblio\GestionBiblio\obj\Debug\GestionBiblio.csproj.GenerateResource.cache
+D:\Ecole\Univers tuto\repos\GestionBiblio\GestionBiblio\obj\Debug\GestionBiblio.csproj.CopyComplete
+D:\Ecole\Univers tuto\repos\GestionBiblio\GestionBiblio\obj\Debug\GestionBiblio.exe
+D:\Ecole\Univers tuto\repos\GestionBiblio\GestionBiblio\obj\Debug\GestionBiblio.pdb
